@@ -1,5 +1,5 @@
-name: signup_app
-description: A beautiful sign-up screen with validation
+name: nutrition_app
+description: A application for tracking nutrition.
 publish_to: 'none'
 version: 0.1.0
 
